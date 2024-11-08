@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RapidoLaFleche.
 - 👀 I’m interested in Front-End ^^
-- 🌱 I’m currently learning POO with Java x(
+- 🌱 I’m currently learning Procedural PHP 🐘
 - 💞️ I’m looking to collaborate on a big project !
 - 👕 My last project : https://theyouthway.netlify.app
 - 📫 How to reach me : junioryovo2002@gmail.com
