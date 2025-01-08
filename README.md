@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RapidoLaFleche.
-- 👀 I’m interested in Front-End ^^
-- 🌱 I’m currently learning Procedural PHP 🐘
+- 👀 I’m interested in Front-End / Back-End ^^
+- 🌱 I’m currently learning AlpineJS 🅰️
 - 💞️ I’m looking to collaborate on a big project !
-- 👕 My last project : https://theyouthway.netlify.app
+- 👕 My last project : TheFlagWar
 - 📫 How to reach me : junioryovo2002@gmail.com
 - 😄 Pronouns: KC Rapido :)
 - ⚡ Fun fact : I was a semiprofessional voleyball player 
