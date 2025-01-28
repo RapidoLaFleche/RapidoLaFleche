@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RapidoLaFleche.
 - 👀 I’m interested in Front-End / Back-End ^^
-- 🌱 I’m currently learning AlpineJS 🅰️
+- 🌱 I’m currently learning NodeJs 🛜
 - 💞️ I’m looking to collaborate on a big project !
-- 👕 My last project : CatFinder => https://techtwins.fr/catfinder
+- 🐈 My last project : CatFinder => https://techtwins.fr/catfinder
 - 📫 How to reach me : junioryovo2002@gmail.com
 - 😄 Pronouns: KC Rapido :)
 - ⚡ Fun fact : I was a semiprofessional voleyball player 
