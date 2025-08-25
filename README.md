@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RapidoLaFleche.
 - 👀 I’m interested in Front-End / Back-End ^^
-- 🌱 I’m currently learning how to create an ecommerce shop 🛒
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a big project !
 - 🐈 My last project : Streamer Hub => https://techtwins.fr/rayzopp
 - 📫 How to reach me : rapidolafleche@gmail.com
