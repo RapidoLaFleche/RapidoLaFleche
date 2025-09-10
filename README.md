@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a big project !
 - 🎮 My last project : Streamer Hub => https://ethunder.site
 - 📫 How to reach me : rapidolafleche@gmail.com
-- ⚡ Fun fact : I was a semiprofessional voleyball player
+- ⚡ Fun fact : I'm a semiprofessional voleyball player
 
 <!---
 RapidoLaFleche/RapidoLaFleche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
