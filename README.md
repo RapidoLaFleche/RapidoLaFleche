@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End / Back-End ^^
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a big project !
-- 🎮 My last project : Streamer Hub => https://ethunder.site
+- 🎮 My last project : e-Thunder => https://ethunder.site
 - 📫 How to reach me : rapidolafleche@gmail.com
 - ⚡ Fun fact : I'm a semiprofessional voleyball player
 
