@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @RapidoLaFleche.
-- 👀 I’m interested in Front-End / Back-End ^^
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on a big project !
-- 🎮 My last project : e-Thunder => https://ethunder.site/
-- 📫 How to reach me : rapidolafleche@gmail.com
-- ⚡ Fun fact : I'm a semiprofessional voleyball player
-
-<!---
-RapidoLaFleche/RapidoLaFleche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ e-Thunder — Digital Craft Studio
+- 🧠 We design & build custom digital experiences, from concept to production.
+- 🎯 Focused on premium UI/UX, clean development, and scalable web solutions.
+- 🚀 We turn ideas into fully functional, production-ready products.
+- 🤝 Open to ambitious collaborations and long-term projects.
+- 🧩 Latest project: OtakuScouter → https://otakuscouter.fr/
+- 📩 Contact: ethunder.sarl1@gmail.com
